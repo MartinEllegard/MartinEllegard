@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MartinEllegard
-- 👀 I’m a Fullstack web development
-- 🌱 I’m currently learning more about .NET and Python
+- 👀 I’m a Fullstack developer
+- 🌱 I’m currently learning more about .NET APIs and Python
