@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @MartinEllegard
-- 👀 I’m a Fullstack developer
+- 👀 I’m a Software Engineer in Trondheim
 - 🌱 I’m currently learning more about different backend languages
