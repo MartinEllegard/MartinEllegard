@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @MartinEllegard
-- 👀 I’m a Software Engineer in Trondheim
-- 🌱 I’m currently learning rust while working fulltime with dotnet
+- Software Engineer in Trondheim
+- I’m currently learning rust and python while working fulltime with dotnet during my dayjob
 
 ### My Stats :
 
