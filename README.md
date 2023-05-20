@@ -1,6 +1,6 @@
 - Software Engineer in Trondheim
 - I’m currently learning rust and python while working fulltime with dotnet during my dayjob
-- Exited to get more into rist
+- Exited to get more into rust 
 
 ### My Stats :
 
