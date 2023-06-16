@@ -1,6 +1,6 @@
 - Software Engineer in Trondheim
-- I’m currently learning rust and python while working fulltime with dotnet during my dayjob
-- Exited to get more into rust 
+- I’m currently learning rust,python and go while working fulltime with dotnet during my dayjob
+- Currently building a go api as a side project
 
 ### My Stats :
 
