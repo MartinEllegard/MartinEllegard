@@ -1,6 +1,6 @@
 ## About
 - Software Engineer in Trondheim
-- Working fulltime with .NET and geospatial data
+- Working fulltime with (.NET/Rust) and geospatial data
 - Spending a lot of time getting into rust
 
 ## Programming languages
