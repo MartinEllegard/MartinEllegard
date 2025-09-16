@@ -1,5 +1,5 @@
 # About
-- Software Engineer in Trondheim
+- Software Engineer in Brisbain
 - Working fulltime with (.NET/Rust) and geospatial data
 - Works way to much on devops
 - Spending a lot of time getting into rust 
@@ -13,7 +13,7 @@
 
 # Experience
 - *Frontend* 6 years
-- *Backend* 8 years
+- *Backend* 9 years
 
 <!--# My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinEllegard&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB3A2F&stroke=AB2A22)](https://git.io/streak-stats)
