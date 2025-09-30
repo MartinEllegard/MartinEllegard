@@ -1,8 +1,8 @@
 # About
-- Software Engineer in Brisbain
-- Working fulltime with (.NET/Rust) and geospatial data
+- Senior Software Engineer in Brisbane
+- Currently working with learning swift/app development 
+- Previously worked fulltime with (.NET/Rust) and geospatial data
 - Works way to much on devops
-- Spending a lot of time getting into rust 
 
 # Programming languages
 - .NET
