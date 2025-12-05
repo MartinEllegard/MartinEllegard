@@ -30,4 +30,6 @@
 
 ![Github Highlights](https://greptile-stats.vercel.app/api/widget/MartinEllegard/highlights)
 
+![Github Archetype](https://greptile-stats.vercel.app/api/widget/MartinEllegard/archtype)
+
 ![Github Quirk](https://greptile-stats.vercel.app/api/widget/MartinEllegard/quirk)
