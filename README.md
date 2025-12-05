@@ -23,3 +23,11 @@
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MartinEllegard&theme=radical&hide_border=false)<br/>
 
+# 📊GitHub Public Stats :
+![Github Stats](https://greptile-stats.vercel.app/api/widget/MartinEllegard/stats)
+
+![Github Contributions](https://greptile-stats.vercel.app/api/widget/MartinEllegard/contributions)
+
+![Github Highlights](https://greptile-stats.vercel.app/api/widget/MartinEllegard/highlights)
+
+![Github Quirk](https://greptile-stats.vercel.app/api/widget/MartinEllegard/quirk)
