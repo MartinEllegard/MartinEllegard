@@ -1,6 +1,6 @@
 # About
 - Senior Software Engineer in Brisbane
-- Currently working with learning swift/app development 
+- Currently working with learning swift/react native development 
 - Previously worked fulltime with (.NET/Rust) and geospatial data
 - Works way to much on devops
 
