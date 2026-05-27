@@ -22,14 +22,7 @@
 -->
 # 📊GitHub Stats :
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MartinEllegard&theme=radical&hide_border=false)<br/>
-<picture>
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=MartinEllegard&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=MartinEllegard&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MartinEllegard&show_icons=true" />
-</picture>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MartinEllegard&theme=dark)]
+![stats detailed](https://github-readme-stats-fast.vercel.app/api?username=MartinEllegard&show_icons=true&theme=dark&hide=stars)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinEllegard&layout=compact&theme=dark)
+[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=MartinEllegard&display_format=percent)]
