@@ -21,8 +21,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinEllegard&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 # 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=MartinEllegard&theme=radical&hide_border=false)<br/>
-[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MartinEllegard&theme=dark)]
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MartinEllegard&theme=dark)
 ![stats detailed](https://github-readme-stats-fast.vercel.app/api?username=MartinEllegard&show_icons=true&theme=dark&hide=stars)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinEllegard&layout=compact&theme=dark)
-[![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=MartinEllegard&display_format=percent)]
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinEllegard&layout=compact&theme=dark)<br/>
+![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=MartinEllegard&display_format=percent&theme=dark)
