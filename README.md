@@ -29,8 +29,9 @@
 
 
 ### 📊GitHub public stats:
-![stats detailed](https://github-readme-stats-fast.vercel.app/api?username=MartinEllegard&show_icons=true&theme=dark&rank_icon=github)
-![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MartinEllegard&theme=dark)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=martinellegard&hide_border=true&hide=hours)<br/>
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=martinellegard&days=30&width=490&height=80&hide_border=true)<br/>
+
 
 
 <!--# My Stats:
@@ -50,13 +51,14 @@
 # Experience
 - *Frontend* 6 years
 - *Backend* 9 years
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MartinEllegard&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&fire=EB3A2F&stroke=AB2A22)](https://git.io/streak-stats)
-![](https://github-readme-stats.vercel.app/api?username=MartinEllegard&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinEllegard&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 -->
 
 
 <!--
+![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MartinEllegard&theme=dark)
+![stats detailed](https://github-readme-stats-fast.vercel.app/api?username=MartinEllegard&show_icons=true&theme=dark&rank_icon=github)
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinEllegard&theme=dark&layou=donut)
 ![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=MartinEllegard&display_format=percent&theme=dark&limit=5&hide=bash,env,yaml,other)
 -->
