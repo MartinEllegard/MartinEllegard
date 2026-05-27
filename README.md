@@ -8,15 +8,15 @@
 -->
 - 🔭 I'm currently working on: **Smart home management system, home-lab automation** 
 
-- 🌱 I'm currently learning **Rust, React native**
+- 🌱 I'm currently learning: **Rust, React native**
 
-- 👯 I'm looking to collaborate on **Rust projects**
+- 👯 I'm looking to collaborate on: **Rust projects**
 
-- 💬 Ask me about **Rust, C#, web, homelab, devop**
+- 💬 Ask me about: **Rust, C#, web, homelab, devops**
 
-- 📫 How to reach me **probably lingkedin**
+- 📫 How to reach me: **probably linkedin**
 
-- ⚡ Fun fact **Had the crashing realization that you rarely save money with homelabs, but it do be fun**
+- ⚡ Fun fact: **Had the crashing realization that you rarely save money with homelabs, but it do be fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
