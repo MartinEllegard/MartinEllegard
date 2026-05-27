@@ -23,4 +23,7 @@
 # 📊GitHub Stats :
 ![stats detailed](https://github-readme-stats-fast.vercel.app/api?username=MartinEllegard&show_icons=true&theme=dark&rank_icon=github)
 ![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=MartinEllegard&theme=dark)<br/>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MartinEllegard&theme=dark&layou=donut)
+<!--
 ![Harlok's WakaTime stats](https://github-readme-stats-fast.vercel.app/api/wakatime?username=MartinEllegard&display_format=percent&theme=dark&limit=5&hide=bash,env,yaml,other)
+-->
