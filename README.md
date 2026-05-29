@@ -21,7 +21,7 @@
 ### 📊GitHub public stats:
 ![GitHub Streak](https://streak-stats.demolab.com/?user=MartinEllegard&theme=dark&hide_border=true&background=0d1117&currStreakLabel=58a6ff&fire=58a6ff&ring=58a6ff&exclude_days=Sat,Sun&card_width=490)
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=martinellegard&hide_border=true&hide=hours)<br/>
-![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=martinellegard&days=30&width=490&height=80&hide_border=true)<br/>
+![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=martinellegard&days=7&width=490&height=80&hide_border=true)<br/>
 
 <!-- 
 streak doc:
