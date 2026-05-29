@@ -23,7 +23,10 @@
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=martinellegard&hide_border=true&hide=hours)<br/>
 ![Contribution Sparkline](https://ghstats.dev/api/sparkline?username=martinellegard&days=30&width=490&height=80&hide_border=true)<br/>
 
-
+<!-- 
+streak doc:
+https://github.com/DenverCoder1/github-readme-streak-stats
+-->
 
 <!--# My Stats:
 # About
