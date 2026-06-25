@@ -1,6 +1,6 @@
 # Hi 👋, I'm Martin Ellegård
 
-### An experienced Rust developer
+### An senior dev with a thing for rust
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MartinEllegard&label=Profile views&color=0e75b6&style=flat" alt="" /> </p>
 
